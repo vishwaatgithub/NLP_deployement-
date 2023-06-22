@@ -1,5 +1,5 @@
 beautifulsoup4==4.11.1
-nltk @ C:\Users\Acer\PycharmProjects\pythonProject2\venv\Lib\site-packages\nltk
+nltk==3.8.1
 pandas==1.4.2
 Pillow>=9.0.1
 scikit_learn>=0.24.2
